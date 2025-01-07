@@ -1,4 +1,4 @@
-# calendar2025
+# Tactical Sprint calendar 2025
 
 This is a **tactical calendar** icl for the whole of 2025 , the same operation can be repeated in the future for 2026
 
@@ -14,3 +14,4 @@ You can play around with the other variables to refine your calendar
 Event type: All Day 
 Reminder: On Day of Appointment 9:00 AM
 
+To use the already generated ics please [click here](https://github.com/guneetsinghchatha/calendar2025/blob/main/sprint_schedule.ics)
